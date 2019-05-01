@@ -1,0 +1,13 @@
+start: 13:34:41:317
+user: BIG_DICK_MIC
+type: EG
+task_num: 0
+----- Joint Info -----
+Of Form: JOINT, X-Val, Y-Val 
+** Elbow **
+Hand Above Elbow: hand.Y - elbow.Y > ElbowRightAboveTolerance.Y
+Hand Right Elbow: hand.X - elbow.X > ElbowRightAboveTolerance.X
+Hand Below Elbow: hand.Y - elbow.Y < ElbowLeftBelowTolerance.Y
+Hand Left  Elbow: hand.X - elbow.X < ElbowLeftBelowTolerance.X
+** Regions **
+TOP: Y > SpineShoulder. BOTTOM: Y < SpineBase. LEFT: X < ShoulderLeft. Right: X > ShoulderRight

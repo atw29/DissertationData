@@ -1,0 +1,7 @@
+JOINT_TYPE,X_POS,Y_POS
+ElbowRightAboveTolerance,0.06,0.1
+ElbowLeftBelowTolerance,-0.15,-0.12
+SpineShoulder,0.01091615,0.4661294
+SpineBase,0.02947307,-0.1258526
+ShoulderLeft,-0.1660816,0.39155
+ShoulderRight,0.1784835,0.4078903
